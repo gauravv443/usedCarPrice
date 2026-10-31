@@ -1,0 +1,75 @@
+{
+    "best_model": "Random Forest",
+    "reference_year": 2024,
+    "metrics": {
+        "Linear Regression": {
+            "r2": 0.5405,
+            "mae": 179641.77,
+            "rmse": 384722.7
+        },
+        "Random Forest": {
+            "r2": 0.5869,
+            "mae": 156372.73,
+            "rmse": 364804.54
+        },
+        "Gradient Boosting": {
+            "r2": 0.5053,
+            "mae": 155084.47,
+            "rmse": 399216.05
+        }
+    },
+    "available_brands": [
+        "Ambassador",
+        "Audi",
+        "Bmw",
+        "Chevrolet",
+        "Daewoo",
+        "Datsun",
+        "Fiat",
+        "Force",
+        "Ford",
+        "Honda",
+        "Hyundai",
+        "Isuzu",
+        "Jaguar",
+        "Jeep",
+        "Kia",
+        "Land",
+        "Mahindra",
+        "Maruti",
+        "Mercedes-Benz",
+        "Mg",
+        "Mitsubishi",
+        "Nissan",
+        "Opelcorsa",
+        "Renault",
+        "Skoda",
+        "Tata",
+        "Toyota",
+        "Volkswagen",
+        "Volvo"
+    ],
+    "available_fuels": [
+        "CNG",
+        "Diesel",
+        "Electric",
+        "LPG",
+        "Petrol"
+    ],
+    "available_sellers": [
+        "Dealer",
+        "Individual",
+        "Trustmark Dealer"
+    ],
+    "available_transmissions": [
+        "Automatic",
+        "Manual"
+    ],
+    "available_owners": [
+        "First Owner",
+        "Fourth & Above Owner",
+        "Second Owner",
+        "Test Drive Car",
+        "Third Owner"
+    ]
+}
